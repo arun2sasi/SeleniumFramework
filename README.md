@@ -11,23 +11,23 @@ Main features:
 
 * Provides browser automationg using Selenium WebDriver;
 
-Take screenshots on demand and save on disk;
+* Take screenshots on demand and save on disk;
 
-Uses apache logger for storing test logs in files;
+* Uses apache logger for storing test logs in files;
 
-Build Tool : Maven;
+* Build Tool : Maven;
 
-Programming language: Java;
+* Programming language: Java;
 
-Test Data Management: data stored in Excel worksheet : Apache POI ;
+* Test Data Management: data stored in Excel worksheet : Apache POI ;
 
-Parallel Execution : Using Selenium Grid to run simultaneous test execution;
+* Parallel Execution : Using Selenium Grid to run simultaneous test execution;
 
-CI Integration : Integrated with Jenkins;
+* CI Integration : Integrated with Jenkins;
 
-Exceptions handling : Using Java try/Catch exception handling feature;
+* Exceptions handling : Using Java try/Catch exception handling feature;
 
-Reports : Custom html reports are generated and available in test-output folder;
+* Reports : Custom html reports are generated and available in test-output folder;
 
 
 Contact
