@@ -182,6 +182,7 @@ public class TestBase {
 		if (!result.isSuccess()) {
 			captureBrowserScreenShot.embedScreenShotIntoReport(driver);
 		}
+		driver.manage().deleteAllCookies();
 		if (!(driver.getCurrentUrl() == properties.getProperty("BaseURL"))) {
 			driver.get(properties.getProperty("BaseURL"));
 		}
@@ -254,26 +255,6 @@ public class TestBase {
 		return capabilities;
 	}
 
-	private DesiredCapabilities generateAndroidDesiredCapabilities(String Device) {
-		AppLogs.info("generateAndroidDesiredCapabilities starts..");
-		DesiredCapabilities capabilities = null;
-		if (Device.equalsIgnoreCase("ANDROID")) {
-			capabilities = new DesiredCapabilities();
-			capabilities.setCapability("device",properties.getProperty("device"));
-			capabilities.setCapability(CapabilityType.BROWSER_NAME, "");
-			capabilities.setCapability("deviceName",properties.getProperty("deviceName"));
-			capabilities.setCapability("platformName",properties.getProperty("device"));
-			capabilities.setCapability(CapabilityType.VERSION,properties.getProperty("platformVersion"));
-			capabilities.setCapability("app", properties.getProperty("app"));
-			capabilities.setCapability("appPackage",properties.getProperty("appPackage"));
-			capabilities.setCapability("appActivity",properties.getProperty("appActivity"));
-			capabilities.setCapability(CapabilityType.ForSeleniumServer.ENSURING_CLEAN_SESSION,true);
-			AppLogs.info(properties.getProperty("device")+" , "+properties.getProperty("deviceName")+" , "+properties.getProperty("platformVersion")+" , "+properties.getProperty("app")+" , "+properties.getProperty("appPackage")+" , "+properties.getProperty("appActivity"));
-		}
-		AppLogs.info("generateAndroidDesiredCapabilities ends..");
-		return capabilities;
-	}
-
 	/**
 	 * Purpose : Loads .propertis file
 	 * 
@@ -282,10 +263,6 @@ public class TestBase {
 	private void initPropertiesFile() throws SeleniumException {
 		properties = new Properties();
 		try {
-			FileReader MobileDevicereader = new FileReader(
-					System.getProperty("user.dir")
-							+ "//src//test//resources//MobileDevice.properties");
-			properties.load(MobileDevicereader);
 			FileReader Seleniumreader = new FileReader(
 					System.getProperty("user.dir")
 							+ "//src//test//resources//Selenium.properties");
