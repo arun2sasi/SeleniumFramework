@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Full suite]" parallel="classes">
+  <parameter name="hubAddress" value="http://127.0.0.1:4444/wd/hub"/>
+  <listeners>
+    <listener class-name="com.report.CustomReport"/>
+    <listener class-name="com.report.CustomLogging"/>
+  </listeners>
+  <test name="Rediff WebSite Testing(failed)" parallel="classes">
+    <classes>
+      <class name="com.rediff.testcases.LoginTest">
+        <methods>
+          <include name="setUpTest"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.LoginTest -->
+      <class name="com.rediff.testcases.Selenium2ExampleST">
+        <methods>
+          <include name="startDriver"/>
+          <include name="TearDown"/>
+          <include name="stopDriver"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.Selenium2ExampleST -->
+      <class name="com.rediff.testcases.QuickTestLinFF">
+        <methods>
+          <include name="startDriver"/>
+          <include name="setUp"/>
+          <include name="TearDown"/>
+          <include name="tearDown"/>
+          <include name="stopDriver"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.QuickTestLinFF -->
+      <class name="com.rediff.testcases.QuickTestWinFF">
+        <methods>
+          <include name="startDriver"/>
+          <include name="setUp"/>
+          <include name="TearDown"/>
+          <include name="stopDriver"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.QuickTestWinFF -->
+      <class name="com.rediff.testcases.Test1">
+        <methods>
+          <include name="startDriver"/>
+          <include name="test1_3"/>
+          <include name="TearDown"/>
+          <include name="stopDriver"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.Test1 -->
+    </classes>
+  </test> <!-- Rediff WebSite Testing(failed) -->
+</suite> <!-- Failed suite [Full suite] -->

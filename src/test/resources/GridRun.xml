@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rediff Mail Execution Suite" parallel="classes" thread-count="2">
+	<parameter name="hubAddress" value="localhost"/>
+	<test verbose="2" name="Rediff WebSite Testing">
+		<packages>
+		    <groups>
+	    		<run>
+					<include name="Selenium" />
+	    		</run>
+			</groups>
+			<package name="com.rediff.testcases">
+		</package>
+		</packages>
+	</test>
+</suite>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72631" started-at="2014-09-24T07:52:48Z" finished-at="2014-09-24T07:54:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72631" started-at="2014-09-24T07:52:48Z" finished-at="2014-09-24T07:54:01Z">
+      <class name="com.rediff.testcases.LoginTest">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="setUpTest" is-config="true" duration-ms="11" started-at="2014-09-24T13:22:48Z" finished-at="2014-09-24T13:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="startDriver" is-config="true" duration-ms="33416" started-at="2014-09-24T13:22:48Z" finished-at="2014-09-24T13:23:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[localhost]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="738" started-at="2014-09-24T13:23:21Z" finished-at="2014-09-24T13:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="blankUserNameBlankPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="blankUserNameBlankPasswordLoginTest" duration-ms="715" started-at="2014-09-24T13:23:22Z" finished-at="2014-09-24T13:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankUserNameBlankPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="4055" started-at="2014-09-24T13:23:23Z" finished-at="2014-09-24T13:23:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=blankUserNameBlankPasswordLoginTest status=SUCCESS method=LoginTest.blankUserNameBlankPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="609" started-at="2014-09-24T13:23:27Z" finished-at="2014-09-24T13:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="blankUserNameRightPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="blankUserNameRightPasswordLoginTest" duration-ms="863" started-at="2014-09-24T13:23:28Z" finished-at="2014-09-24T13:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankUserNameRightPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="2084" started-at="2014-09-24T13:23:28Z" finished-at="2014-09-24T13:23:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=blankUserNameRightPasswordLoginTest status=SUCCESS method=LoginTest.blankUserNameRightPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="539" started-at="2014-09-24T13:23:31Z" finished-at="2014-09-24T13:23:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="blankUserNameWrongPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="blankUserNameWrongPasswordLoginTest" duration-ms="707" started-at="2014-09-24T13:23:31Z" finished-at="2014-09-24T13:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankUserNameWrongPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="2054" started-at="2014-09-24T13:23:32Z" finished-at="2014-09-24T13:23:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=blankUserNameWrongPasswordLoginTest status=SUCCESS method=LoginTest.blankUserNameWrongPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="650" started-at="2014-09-24T13:23:34Z" finished-at="2014-09-24T13:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="rightUserNameBlankPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="rightUserNameBlankPasswordLoginTest" duration-ms="608" started-at="2014-09-24T13:23:34Z" finished-at="2014-09-24T13:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rightUserNameBlankPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="2081" started-at="2014-09-24T13:23:35Z" finished-at="2014-09-24T13:23:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=rightUserNameBlankPasswordLoginTest status=SUCCESS method=LoginTest.rightUserNameBlankPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="539" started-at="2014-09-24T13:23:37Z" finished-at="2014-09-24T13:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="rightUserNameWrongPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="rightUserNameWrongPasswordLoginTest" duration-ms="522" started-at="2014-09-24T13:23:38Z" finished-at="2014-09-24T13:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rightUserNameWrongPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="2198" started-at="2014-09-24T13:23:38Z" finished-at="2014-09-24T13:23:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=rightUserNameWrongPasswordLoginTest status=SUCCESS method=LoginTest.rightUserNameWrongPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="877" started-at="2014-09-24T13:23:40Z" finished-at="2014-09-24T13:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="sucessfullLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="sucessfullLoginTest" duration-ms="555" started-at="2014-09-24T13:23:41Z" finished-at="2014-09-24T13:23:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessfullLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="2282" started-at="2014-09-24T13:23:42Z" finished-at="2014-09-24T13:23:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sucessfullLoginTest status=SUCCESS method=LoginTest.sucessfullLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="531" started-at="2014-09-24T13:23:44Z" finished-at="2014-09-24T13:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="wrongUserNameBlankPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="wrongUserNameBlankPasswordLoginTest" duration-ms="494" started-at="2014-09-24T13:23:45Z" finished-at="2014-09-24T13:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongUserNameBlankPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="2391" started-at="2014-09-24T13:23:45Z" finished-at="2014-09-24T13:23:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=wrongUserNameBlankPasswordLoginTest status=SUCCESS method=LoginTest.wrongUserNameBlankPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="594" started-at="2014-09-24T13:23:48Z" finished-at="2014-09-24T13:23:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="wrongUserNameRightPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="wrongUserNameRightPasswordLoginTest" duration-ms="480" started-at="2014-09-24T13:23:48Z" finished-at="2014-09-24T13:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongUserNameRightPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="658" started-at="2014-09-24T13:23:49Z" finished-at="2014-09-24T13:23:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=wrongUserNameRightPasswordLoginTest status=SUCCESS method=LoginTest.wrongUserNameRightPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="LoginTestSetUp()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="LoginTestSetUp" is-config="true" duration-ms="2263" started-at="2014-09-24T13:23:49Z" finished-at="2014-09-24T13:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestSetUp -->
+        <test-method status="PASS" signature="wrongUserNameWrongPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="wrongUserNameWrongPasswordLoginTest" duration-ms="438" started-at="2014-09-24T13:23:52Z" finished-at="2014-09-24T13:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongUserNameWrongPasswordLoginTest -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="TearDown" is-config="true" duration-ms="2539" started-at="2014-09-24T13:23:52Z" finished-at="2014-09-24T13:23:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=wrongUserNameWrongPasswordLoginTest status=SUCCESS method=LoginTest.wrongUserNameWrongPasswordLoginTest()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:com.rediff.testcases.LoginTest@1e5ec57]" name="stopDriver" is-config="true" duration-ms="6125" started-at="2014-09-24T13:23:55Z" finished-at="2014-09-24T13:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- com.rediff.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

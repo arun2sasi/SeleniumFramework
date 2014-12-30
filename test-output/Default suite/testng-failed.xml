@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Rough.Test3">
+        <methods>
+          <include name="test3"/>
+        </methods>
+      </class> <!-- Rough.Test3 -->
+      <class name="com.rediff.testcases.Selenium2ExampleST">
+        <methods>
+          <include name="googleMilkExample"/>
+          <include name="setUpTest"/>
+          <include name="googleCheeseExample"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.Selenium2ExampleST -->
+      <class name="Rough.Test2">
+        <methods>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- Rough.Test2 -->
+      <class name="com.rediff.testcases.Test4">
+        <methods>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.Test4 -->
+      <class name="Rough.Test1">
+        <methods>
+          <include name="test1"/>
+          <include name="test1_4"/>
+          <include name="test1_3"/>
+          <include name="test1_2"/>
+        </methods>
+      </class> <!-- Rough.Test1 -->
+      <class name="Rough.Test4">
+        <methods>
+          <include name="test4"/>
+        </methods>
+      </class> <!-- Rough.Test4 -->
+      <class name="Rough.QuickTestLinFF">
+        <methods>
+          <include name="linuxTest"/>
+        </methods>
+      </class> <!-- Rough.QuickTestLinFF -->
+      <class name="Rough.QuickTestWinFF">
+        <methods>
+          <include name="windowsTest"/>
+        </methods>
+      </class> <!-- Rough.QuickTestWinFF -->
+      <class name="com.rediff.testcases.Test2">
+        <methods>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.Test2 -->
+      <class name="com.rediff.testcases.Test1">
+        <methods>
+          <include name="test1"/>
+          <include name="test1_3"/>
+          <include name="test1_2"/>
+          <include name="test1_4"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.Test1 -->
+      <class name="com.rediff.testcases.QuickTestWinFF">
+        <methods>
+          <include name="windowsTest"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.QuickTestWinFF -->
+      <class name="com.rediff.testcases.QuickTestLinFF">
+        <methods>
+          <include name="linuxTest"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.QuickTestLinFF -->
+      <class name="Rough.ThreadLocalDemo">
+        <methods>
+          <include name="testMethod2"/>
+          <include name="testMethod1"/>
+        </methods>
+      </class> <!-- Rough.ThreadLocalDemo -->
+      <class name="com.rediff.testcases.Test3">
+        <methods>
+          <include name="test3"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.Test3 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

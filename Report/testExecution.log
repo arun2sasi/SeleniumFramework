@@ -1,0 +1,1722 @@
+2014-09-22 16:11:49,026 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:11:49,126 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:11:49,978 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:11:49,984 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:11:50,025 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:11:50,113 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 16:11:50,113 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 16:11:50,116 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 16:11:50:116
+2014-09-22 16:11:50,136 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 16:11:50,156 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 16:11:50,161 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 16:12:05,407 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 16:12:05,411 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:12:09,317 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:12:09,317 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:12:09,427 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:12:09,430 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:12:15,952 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:12:17,035 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:12:19,068 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:12:45,304 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:12:45,380 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{5fda3889-6e2a-42a9-8574-9b8c70aea887} , http://www.rediff.com/
+2014-09-22 16:12:47,314 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:12:47,317 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:12:47,331 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 16:12:47:331
+2014-09-22 16:14:01,754 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:14:30,585 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:14:30,685 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:14:31,545 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:14:31,549 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:14:31,589 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:14:31,672 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 16:14:31,672 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 16:14:31,675 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 16:14:31:675
+2014-09-22 16:14:31,694 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 16:14:31,711 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 16:14:31,716 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 16:14:41,550 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 16:14:41,554 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:14:46,859 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:14:46,860 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:14:46,877 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:14:46,878 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:14:53,922 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:14:55,898 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:15:01,506 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:15:07,465 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:15:07,534 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{37752522-60b6-4d2c-8a80-fc17fe81888e} , http://www.rediff.com/
+2014-09-22 16:15:09,142 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:15:09,143 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:15:09,155 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 16:15:09:155
+2014-09-22 16:16:55,882 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:16:55,977 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:16:56,841 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:16:56,847 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:16:56,892 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:16:56,977 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 16:16:56,978 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 16:16:56,981 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 16:16:56:980
+2014-09-22 16:16:56,999 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 16:16:57,019 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 16:16:57,024 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 16:19:23,015 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 16:19:23,020 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:19:23,081 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:19:23,081 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:19:23,181 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:19:23,182 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:20:03,153 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:20:04,396 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:20:05,234 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:20:06,863 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:20:06,914 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{ff72c9a6-7343-4587-8e64-17c026e05b0a} , http://www.rediff.com/
+2014-09-22 16:20:07,974 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:20:07,975 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:20:07,987 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 16:20:07:987
+2014-09-22 16:21:42,445 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:21:42,552 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:21:43,514 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:21:43,519 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:21:43,563 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:21:43,644 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 16:21:43,644 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 16:21:43,647 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 16:21:43:647
+2014-09-22 16:21:43,666 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 16:21:43,687 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 16:21:43,693 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 16:21:52,458 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 16:21:52,464 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:21:52,520 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:21:52,520 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:21:52,537 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:21:52,539 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:22:12,001 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:22:14,060 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:22:16,901 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:22:23,469 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:22:23,581 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{bf9eb833-4d42-4599-8939-e0a85eb5e1c8} , http://www.rediff.com/
+2014-09-22 16:22:25,671 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:22:25,672 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:22:25,684 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 16:22:25:684
+2014-09-22 16:22:34,740 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:22:41,092 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:22:44,646 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:22:46,329 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:23:01,768 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:23:05,049 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:24:28,248 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:24:28,353 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:24:29,259 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:24:29,264 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:24:29,305 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:24:29,394 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 16:24:29,394 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 16:24:29,397 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 16:24:29:397
+2014-09-22 16:24:29,415 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 16:24:29,433 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 16:24:29,439 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 16:25:19,677 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 16:25:19,681 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:25:19,738 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:25:19,739 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:25:19,773 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:25:19,775 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:25:24,603 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:25:28,006 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:25:29,686 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:25:50,554 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:25:50,610 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{e7f75dca-a775-4796-9275-bd55d66dee95} , http://www.rediff.com/
+2014-09-22 16:25:51,625 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:25:51,626 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:25:51,637 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 16:25:51:637
+2014-09-22 16:25:55,493 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:25:55,599 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:26:21,181 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:26:21,372 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:26:21,372 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:26:26,208 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:26:26,466 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:26:26,466 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:26:26,468 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameBlankPasswordLoginTest  and time is: 16:26:26:467
+2014-09-22 16:26:39,987 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:27:12,776 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameRightPasswordLoginTest and time is: 16:27:12:776
+2014-09-22 16:27:12,783 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: blankUserNameRightPasswordLoginTest and time is: 16:27:12:783
+2014-09-22 16:27:16,278 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameWrongPasswordLoginTest and time is: 16:27:16:278
+2014-09-22 16:27:16,287 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: blankUserNameWrongPasswordLoginTest and time is: 16:27:16:287
+2014-09-22 16:27:18,544 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameBlankPasswordLoginTest and time is: 16:27:18:544
+2014-09-22 16:27:18,551 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: rightUserNameBlankPasswordLoginTest and time is: 16:27:18:551
+2014-09-22 16:27:22,854 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameWrongPasswordLoginTest and time is: 16:27:22:854
+2014-09-22 16:27:22,862 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: rightUserNameWrongPasswordLoginTest and time is: 16:27:22:862
+2014-09-22 16:27:25,239 INFO  (DetailedLogs.java:54)     - Info : Test method started: sucessfullLoginTest and time is: 16:27:25:239
+2014-09-22 16:27:25,243 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: sucessfullLoginTest and time is: 16:27:25:243
+2014-09-22 16:27:26,325 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameBlankPasswordLoginTest and time is: 16:27:26:325
+2014-09-22 16:27:26,330 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: wrongUserNameBlankPasswordLoginTest and time is: 16:27:26:330
+2014-09-22 16:27:28,197 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameRightPasswordLoginTest and time is: 16:27:28:197
+2014-09-22 16:27:28,205 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: wrongUserNameRightPasswordLoginTest and time is: 16:27:28:204
+2014-09-22 16:27:29,325 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameWrongPasswordLoginTest and time is: 16:27:29:325
+2014-09-22 16:27:29,330 INFO  (DetailedLogs.java:54)     - Info : Test method skipped: wrongUserNameWrongPasswordLoginTest and time is: 16:27:29:330
+2014-09-22 16:27:31,602 INFO  (DetailedLogs.java:54)     - Info : Test in a suite finished: Rediff WebSite Testing and time is: 16:27:31:602
+2014-09-22 16:35:30,942 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:31,020 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:31,897 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:31,901 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:31,941 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:32,012 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 16:35:32,012 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 16:35:32,015 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 16:35:32:014
+2014-09-22 16:35:32,025 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 16:35:32,042 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 16:35:32,046 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 16:35:43,889 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 16:35:43,893 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:35:43,932 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:43,932 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:35:43,954 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:35:43,955 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:35:43,955 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:35:44,157 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:35:44,158 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:35:44,414 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:44,448 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:35:44,450 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:35:44,450 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:35:44,458 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 16:35:44:458
+2014-09-22 16:35:44,458 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:35:44,663 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:35:44,663 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:35:44,917 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:35:44,918 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:35:44,918 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:35:45,070 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:35:45,071 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:35:45,072 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameBlankPasswordLoginTest  and time is: 16:35:45:072
+2014-09-22 16:35:45,072 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:35:53,154 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:35:53,156 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:35:53,163 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:53,164 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:35:53,190 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:35:53,191 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:35:53,191 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:35:53,401 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:35:53,401 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:35:53,495 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:53,545 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:35:53,546 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:35:53,546 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:35:53,547 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameRightPasswordLoginTest and time is: 16:35:53:547
+2014-09-22 16:35:53,547 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:35:53,657 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:35:53,657 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:35:53,794 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:35:53,794 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:35:53,795 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:35:54,007 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:35:54,007 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:35:54,009 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameRightPasswordLoginTest  and time is: 16:35:54:008
+2014-09-22 16:35:54,009 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:35:57,120 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:35:57,122 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:35:57,124 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:57,125 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:35:57,229 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:35:57,230 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:35:57,230 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:35:57,464 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:35:57,464 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:35:57,629 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:35:57,670 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:35:57,671 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:35:57,673 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:35:57,675 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameWrongPasswordLoginTest and time is: 16:35:57:675
+2014-09-22 16:35:57,676 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:35:57,748 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:35:57,748 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:35:57,891 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:35:57,892 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:35:57,892 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:35:58,162 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:35:58,163 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:35:58,164 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameWrongPasswordLoginTest  and time is: 16:35:58:164
+2014-09-22 16:35:58,165 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:36:06,692 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:36:06,693 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:36:06,700 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:06,700 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:36:06,729 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:36:06,730 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:36:06,731 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:06,925 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:06,925 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:36:07,036 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:07,108 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:36:07,109 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:36:07,109 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:36:07,110 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameBlankPasswordLoginTest and time is: 16:36:07:110
+2014-09-22 16:36:07,111 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:07,206 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:07,206 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:07,435 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:07,436 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:36:07,436 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:07,590 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:07,591 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:36:07,592 INFO  (DetailedLogs.java:54)     - Info : Test method success: rightUserNameBlankPasswordLoginTest  and time is: 16:36:07:592
+2014-09-22 16:36:07,593 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:36:16,022 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:36:16,024 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:36:16,027 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:16,027 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:36:16,058 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:36:16,059 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:36:16,059 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:16,427 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:16,428 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:36:16,667 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:16,719 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:36:16,720 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:36:16,721 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:36:16,723 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameWrongPasswordLoginTest and time is: 16:36:16:723
+2014-09-22 16:36:16,724 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:16,959 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:16,959 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:17,051 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:17,053 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:36:17,053 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:17,181 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:17,181 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:36:17,182 INFO  (DetailedLogs.java:54)     - Info : Test method success: rightUserNameWrongPasswordLoginTest  and time is: 16:36:17:182
+2014-09-22 16:36:17,185 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:36:17,597 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:36:17,597 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:36:17,600 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:17,600 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:36:18,879 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:36:18,880 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:36:18,881 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:18,985 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:18,985 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:36:19,243 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:19,286 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:36:19,286 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:36:19,287 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:36:19,288 INFO  (DetailedLogs.java:54)     - Info : Test method started: sucessfullLoginTest and time is: 16:36:19:288
+2014-09-22 16:36:19,288 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() starts..
+2014-09-22 16:36:19,288 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:19,377 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:19,377 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:19,585 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:19,585 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:36:19,586 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:19,729 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:19,729 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:36:19,730 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() ends..
+2014-09-22 16:36:19,732 INFO  (DetailedLogs.java:54)     - Info : Test method success: sucessfullLoginTest  and time is: 16:36:19:732
+2014-09-22 16:36:19,733 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:36:22,333 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:36:22,334 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:36:22,336 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:22,336 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:36:22,358 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:36:22,359 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:36:22,359 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:22,508 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:22,509 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:36:22,625 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:22,669 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:36:22,670 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:36:22,670 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:36:22,671 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameBlankPasswordLoginTest and time is: 16:36:22:671
+2014-09-22 16:36:22,671 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:22,756 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:22,756 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:22,888 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:22,888 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:36:22,888 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:23,105 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:23,106 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:36:23,107 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameBlankPasswordLoginTest  and time is: 16:36:23:107
+2014-09-22 16:36:23,109 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:36:25,420 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:36:25,421 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:36:25,425 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:25,425 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:36:25,491 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:36:25,491 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:36:25,491 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:25,664 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:25,664 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:36:25,769 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:25,801 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:36:25,802 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:36:25,803 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:36:25,805 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameRightPasswordLoginTest and time is: 16:36:25:805
+2014-09-22 16:36:25,805 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:25,895 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:25,895 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:25,978 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:25,978 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:36:25,978 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:26,104 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:26,105 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:36:26,106 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameRightPasswordLoginTest  and time is: 16:36:26:106
+2014-09-22 16:36:26,107 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:36:29,343 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:36:29,344 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:36:29,347 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:29,347 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:36:29,365 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:36:29,365 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:36:29,365 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:29,694 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:29,694 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:36:29,785 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:36:29,823 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{d0c851f1-a859-4421-b060-f8cf5c4b7381} , http://www.rediff.com/
+2014-09-22 16:36:29,824 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:36:29,824 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:36:29,825 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameWrongPasswordLoginTest and time is: 16:36:29:825
+2014-09-22 16:36:29,825 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:29,895 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:29,895 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:36:29,967 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:36:29,967 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:36:29,967 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:36:30,129 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:36:30,129 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:36:30,130 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameWrongPasswordLoginTest  and time is: 16:36:30:130
+2014-09-22 16:36:30,131 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:36:33,076 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:36:33,077 INFO  (DetailedLogs.java:54)     - Info : stopDriver starts..
+2014-09-22 16:36:37,779 INFO  (DetailedLogs.java:54)     - Info : stopDriver ends..
+2014-09-22 16:36:37,797 INFO  (DetailedLogs.java:54)     - Info : Test in a suite finished: Rediff WebSite Testing and time is: 16:36:37:797
+2014-09-22 16:58:26,771 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:58:26,892 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:58:27,841 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:58:27,848 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:58:27,896 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:58:27,973 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 16:58:27,973 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 16:58:27,975 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 16:58:27:975
+2014-09-22 16:58:27,986 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 16:58:28,002 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 16:58:28,006 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 16:58:48,997 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 16:58:49,000 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:58:49,031 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:58:49,032 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:58:49,050 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:58:49,051 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:58:49,051 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:58:49,697 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:58:49,697 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:58:50,118 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:58:50,176 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:58:50,177 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:58:50,178 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:58:50,186 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 16:58:50:186
+2014-09-22 16:58:50,187 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:58:50,308 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:58:50,309 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:58:50,603 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:58:50,603 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:58:50,604 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:58:50,775 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:58:50,775 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:58:50,777 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameBlankPasswordLoginTest  and time is: 16:58:50:777
+2014-09-22 16:58:50,777 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:15,321 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:15,322 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:15,328 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:15,329 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:15,375 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:15,375 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:15,375 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:15,574 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:15,574 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:25,785 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:25,824 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:25,825 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:25,825 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:25,826 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameRightPasswordLoginTest and time is: 16:59:25:826
+2014-09-22 16:59:25,827 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:25,923 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:25,923 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:26,029 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:26,029 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:26,030 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:26,831 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:26,832 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:26,833 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameRightPasswordLoginTest  and time is: 16:59:26:833
+2014-09-22 16:59:26,833 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:29,202 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:29,203 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:29,205 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:29,205 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:29,229 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:29,230 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:29,230 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:29,372 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:29,372 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:29,700 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:29,745 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:29,745 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:29,746 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:29,747 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameWrongPasswordLoginTest and time is: 16:59:29:747
+2014-09-22 16:59:29,748 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:29,901 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:29,901 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:30,009 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:30,009 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:30,009 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:30,178 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:30,178 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:30,179 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameWrongPasswordLoginTest  and time is: 16:59:30:179
+2014-09-22 16:59:30,180 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:32,395 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:32,396 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:32,398 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:32,398 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:32,415 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:32,415 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:32,415 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:32,545 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:32,545 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:32,665 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:32,707 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:32,709 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:32,709 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:32,713 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameBlankPasswordLoginTest and time is: 16:59:32:713
+2014-09-22 16:59:32,713 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:33,072 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:33,073 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:33,179 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:33,179 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:33,180 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:33,305 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:33,305 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:33,306 INFO  (DetailedLogs.java:54)     - Info : Test method success: rightUserNameBlankPasswordLoginTest  and time is: 16:59:33:306
+2014-09-22 16:59:33,307 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:36,283 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:36,285 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:36,291 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:36,292 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:36,323 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:36,323 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:36,323 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:36,497 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:36,498 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:36,600 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:36,646 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:36,646 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:36,647 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:36,648 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameWrongPasswordLoginTest and time is: 16:59:36:648
+2014-09-22 16:59:36,649 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:36,738 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:36,738 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:36,975 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:36,975 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:36,975 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:37,160 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:37,160 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:37,162 INFO  (DetailedLogs.java:54)     - Info : Test method success: rightUserNameWrongPasswordLoginTest  and time is: 16:59:37:162
+2014-09-22 16:59:37,163 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:42,294 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:42,294 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:42,297 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:42,297 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:42,315 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:42,316 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:42,316 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:42,447 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:42,448 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:42,538 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:42,568 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:42,569 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:42,570 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:42,571 INFO  (DetailedLogs.java:54)     - Info : Test method started: sucessfullLoginTest and time is: 16:59:42:571
+2014-09-22 16:59:42,571 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() starts..
+2014-09-22 16:59:42,571 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:42,690 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:42,690 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:42,782 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:42,783 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:42,783 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:42,920 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:42,920 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:42,920 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() ends..
+2014-09-22 16:59:42,921 INFO  (DetailedLogs.java:54)     - Info : Test method success: sucessfullLoginTest  and time is: 16:59:42:921
+2014-09-22 16:59:42,921 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:48,092 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:48,093 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:48,098 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:48,102 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:48,127 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:48,127 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:48,128 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:48,299 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:48,299 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:48,391 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:48,490 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:48,491 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:48,492 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:48,493 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameBlankPasswordLoginTest and time is: 16:59:48:493
+2014-09-22 16:59:48,493 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:48,579 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:48,579 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:48,782 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:48,782 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:48,783 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:48,925 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:48,925 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:48,928 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameBlankPasswordLoginTest  and time is: 16:59:48:928
+2014-09-22 16:59:48,929 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:50,918 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:50,919 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:50,921 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:50,922 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:50,935 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:50,935 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:50,935 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:51,062 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:51,062 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:51,154 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:51,200 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:51,201 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:51,202 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:51,203 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameRightPasswordLoginTest and time is: 16:59:51:203
+2014-09-22 16:59:51,204 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:51,288 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:51,288 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:51,375 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:51,375 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:51,375 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:55,248 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:55,249 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:55,251 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameRightPasswordLoginTest  and time is: 16:59:55:251
+2014-09-22 16:59:55,252 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:56,591 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:56,592 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 16:59:56,595 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:56,595 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 16:59:56,760 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 16:59:56,761 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 16:59:56,761 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:56,937 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:56,938 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 16:59:57,048 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 16:59:57,098 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{b6e8537f-6327-4445-9c24-038b4e117a23} , http://www.rediff.com/
+2014-09-22 16:59:57,099 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 16:59:57,099 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 16:59:57,100 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameWrongPasswordLoginTest and time is: 16:59:57:100
+2014-09-22 16:59:57,100 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:57,177 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:57,177 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 16:59:57,277 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 16:59:57,278 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 16:59:57,278 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 16:59:57,493 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 16:59:57,493 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 16:59:57,495 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameWrongPasswordLoginTest  and time is: 16:59:57:495
+2014-09-22 16:59:57,496 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 16:59:57,923 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 16:59:57,924 INFO  (DetailedLogs.java:54)     - Info : stopDriver starts..
+2014-09-22 17:00:00,979 INFO  (DetailedLogs.java:54)     - Info : stopDriver ends..
+2014-09-22 17:00:00,996 INFO  (DetailedLogs.java:54)     - Info : Test in a suite finished: Rediff WebSite Testing and time is: 17:00:00:996
+2014-09-22 17:05:30,337 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:30,442 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:31,324 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:31,330 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:31,368 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:31,440 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 17:05:31,440 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 17:05:31,443 INFO  (DetailedLogs.java:54)     - Info : Test in a suite started: Rediff WebSite Testing and time is: 17:05:31:442
+2014-09-22 17:05:31,453 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 17:05:31,468 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 17:05:31,473 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 17:05:43,794 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 17:05:43,797 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:05:43,831 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:43,831 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:05:43,851 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:05:43,853 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:05:43,853 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:05:44,033 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:05:44,034 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:05:44,469 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:44,521 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:05:44,522 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:05:44,522 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:05:44,528 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameBlankPasswordLoginTest and time is: 17:05:44:528
+2014-09-22 17:05:44,528 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:05:44,616 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:05:44,616 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:05:44,769 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:05:44,769 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:05:44,769 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:05:44,952 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:05:44,953 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:05:44,957 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameBlankPasswordLoginTest  and time is: 17:05:44:957
+2014-09-22 17:05:44,957 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:05:54,091 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:05:54,093 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:05:54,101 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:54,102 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:05:54,133 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:05:54,134 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:05:54,134 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:05:54,306 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:05:54,306 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:05:54,472 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:54,523 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:05:54,524 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:05:54,524 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:05:54,525 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameRightPasswordLoginTest and time is: 17:05:54:525
+2014-09-22 17:05:54,525 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:05:54,618 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:05:54,618 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:05:54,775 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:05:54,775 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:05:54,776 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:05:54,892 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:05:54,892 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:05:54,893 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameRightPasswordLoginTest  and time is: 17:05:54:893
+2014-09-22 17:05:54,894 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:05:56,935 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:05:56,936 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:05:56,940 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:56,940 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:05:56,973 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:05:56,973 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:05:56,973 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:05:57,115 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:05:57,115 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:05:57,250 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:57,461 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:05:57,462 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:05:57,463 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:05:57,466 INFO  (DetailedLogs.java:54)     - Info : Test method started: blankUserNameWrongPasswordLoginTest and time is: 17:05:57:466
+2014-09-22 17:05:57,466 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:05:57,591 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:05:57,591 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:05:57,843 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:05:57,844 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:05:57,844 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:05:58,042 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:05:58,044 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:05:58,046 INFO  (DetailedLogs.java:54)     - Info : Test method success: blankUserNameWrongPasswordLoginTest  and time is: 17:05:58:046
+2014-09-22 17:05:58,047 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:05:59,910 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:05:59,910 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:05:59,912 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:05:59,913 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:05:59,940 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:05:59,941 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:05:59,941 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:00,075 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:00,075 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:06:00,202 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:00,241 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:06:00,241 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:06:00,242 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:06:00,245 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameBlankPasswordLoginTest and time is: 17:06:00:245
+2014-09-22 17:06:00,246 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:00,325 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:00,325 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:00,442 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:00,442 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:06:00,442 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:00,597 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:00,597 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:06:00,599 INFO  (DetailedLogs.java:54)     - Info : Test method success: rightUserNameBlankPasswordLoginTest  and time is: 17:06:00:599
+2014-09-22 17:06:00,599 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:06:09,559 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:06:09,560 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:06:09,563 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:09,564 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:06:09,584 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:06:09,584 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:06:09,584 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:09,764 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:09,764 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:06:10,043 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:10,098 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:06:10,099 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:06:10,101 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:06:10,104 INFO  (DetailedLogs.java:54)     - Info : Test method started: rightUserNameWrongPasswordLoginTest and time is: 17:06:10:104
+2014-09-22 17:06:10,105 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:10,273 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:10,274 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:10,398 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:10,398 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:06:10,398 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:10,538 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:10,538 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:06:10,540 INFO  (DetailedLogs.java:54)     - Info : Test method success: rightUserNameWrongPasswordLoginTest  and time is: 17:06:10:540
+2014-09-22 17:06:10,541 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:06:12,634 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:06:12,635 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:06:12,638 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:12,639 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:06:12,654 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:06:12,654 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:06:12,655 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:12,802 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:12,802 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:06:12,928 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:12,997 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:06:12,998 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:06:12,999 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:06:13,001 INFO  (DetailedLogs.java:54)     - Info : Test method started: sucessfullLoginTest and time is: 17:06:13:001
+2014-09-22 17:06:13,001 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() starts..
+2014-09-22 17:06:13,002 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:13,111 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:13,111 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:13,318 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:13,319 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:06:13,319 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:13,569 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:13,569 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:06:13,569 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() ends..
+2014-09-22 17:06:13,571 INFO  (DetailedLogs.java:54)     - Info : Test method success: sucessfullLoginTest  and time is: 17:06:13:571
+2014-09-22 17:06:13,571 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:06:17,668 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:06:17,668 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:06:17,670 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:17,670 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:06:17,763 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:06:17,764 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:06:17,764 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:17,958 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:17,959 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:06:18,075 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:18,290 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:06:18,290 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:06:18,291 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:06:18,293 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameBlankPasswordLoginTest and time is: 17:06:18:292
+2014-09-22 17:06:18,293 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:18,373 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:18,373 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:18,517 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:18,517 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:06:18,517 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:18,704 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:18,705 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:06:18,708 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameBlankPasswordLoginTest  and time is: 17:06:18:706
+2014-09-22 17:06:18,708 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:06:21,876 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:06:21,878 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:06:21,881 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:21,882 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:06:21,903 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:06:21,904 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:06:21,904 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:22,053 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:22,054 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:06:22,167 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:22,223 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:06:22,224 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:06:22,225 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:06:22,227 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameRightPasswordLoginTest and time is: 17:06:22:226
+2014-09-22 17:06:22,227 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:22,307 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:22,308 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:22,575 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:22,575 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:06:22,576 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:22,712 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:22,712 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:06:22,713 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameRightPasswordLoginTest  and time is: 17:06:22:713
+2014-09-22 17:06:22,714 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:06:25,037 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:06:25,038 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 17:06:25,039 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:25,040 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 17:06:25,056 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 17:06:25,056 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 17:06:25,056 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:25,223 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:25,224 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 17:06:25,398 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 17:06:25,435 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{97f95886-e9ed-4552-8ebe-9f1fb79d1ccc} , http://www.rediff.com/
+2014-09-22 17:06:25,436 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 17:06:25,436 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 17:06:25,438 INFO  (DetailedLogs.java:54)     - Info : Test method started: wrongUserNameWrongPasswordLoginTest and time is: 17:06:25:437
+2014-09-22 17:06:25,438 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:25,498 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:25,499 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 17:06:25,617 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 17:06:25,617 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 17:06:25,618 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 17:06:25,780 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 17:06:25,780 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 17:06:25,781 INFO  (DetailedLogs.java:54)     - Info : Test method success: wrongUserNameWrongPasswordLoginTest  and time is: 17:06:25:781
+2014-09-22 17:06:25,781 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 17:06:27,890 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 17:06:27,891 INFO  (DetailedLogs.java:54)     - Info : stopDriver starts..
+2014-09-22 17:06:30,989 INFO  (DetailedLogs.java:54)     - Info : stopDriver ends..
+2014-09-22 17:06:31,007 INFO  (DetailedLogs.java:54)     - Info : Test in a suite finished: Rediff WebSite Testing and time is: 17:06:31:007
+2014-09-22 19:26:19,507 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:26:22,539 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:26:22,554 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:26:22,714 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:26:22,959 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 19:26:22,959 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 19:52:05,683 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:52:09,325 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:52:09,356 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:52:09,433 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:52:09,703 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 19:52:09,703 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 19:52:09,720 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 19:57:18,576 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:57:19,584 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:57:19,602 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:57:19,666 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:57:19,776 INFO  (DetailedLogs.java:54)     - Info : setUpTest starts..
+2014-09-22 19:57:19,776 INFO  (DetailedLogs.java:54)     - Info : setUpTest ends..
+2014-09-22 19:57:19,785 INFO  (DetailedLogs.java:54)     - Info : startDriver starts..
+2014-09-22 19:57:19,829 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities starts..
+2014-09-22 19:57:19,834 INFO  (DetailedLogs.java:54)     - Info : generateDesiredCapabilities ends..
+2014-09-22 19:57:51,737 INFO  (DetailedLogs.java:54)     - Info : startDriver ends..
+2014-09-22 19:57:51,740 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 19:57:51,841 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:57:51,844 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 19:57:51,893 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 19:57:51,894 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 19:57:51,894 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:57:52,478 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:57:52,479 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 19:57:52,908 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:57:52,990 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 19:57:52,992 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 19:57:52,993 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 19:57:52,994 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:57:53,169 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:57:53,169 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:57:53,395 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:57:53,395 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 19:57:53,396 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:57:53,525 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:57:53,526 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 19:57:53,528 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 19:58:23,541 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 19:58:23,543 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 19:58:23,557 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:58:23,558 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 19:58:23,598 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 19:58:23,599 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 19:58:23,599 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:58:23,821 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:58:23,821 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 19:58:24,275 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:58:24,454 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 19:58:24,456 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 19:58:24,457 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 19:58:24,458 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:58:24,603 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:58:24,604 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:58:24,783 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:58:24,783 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 19:58:24,783 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:58:24,969 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:58:24,970 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 19:58:24,971 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 19:58:43,655 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 19:58:43,657 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 19:58:43,661 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:58:43,662 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 19:58:43,705 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 19:58:43,705 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 19:58:43,706 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:58:43,865 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:58:43,866 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 19:58:44,042 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:58:44,088 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 19:58:44,090 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 19:58:44,091 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 19:58:44,092 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:58:44,179 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:58:44,179 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:58:44,283 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:58:44,283 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 19:58:44,284 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:58:44,409 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:58:44,409 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 19:58:44,410 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 19:59:07,363 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 19:59:07,366 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 19:59:07,457 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:59:07,458 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 19:59:07,485 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 19:59:07,486 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 19:59:07,486 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:59:07,648 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:59:07,649 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 19:59:07,818 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:59:07,863 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 19:59:07,864 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 19:59:07,865 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 19:59:07,865 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:59:07,957 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:59:07,957 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:59:08,064 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:59:08,065 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 19:59:08,065 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:59:08,274 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:59:08,274 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 19:59:08,275 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 19:59:19,534 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 19:59:19,536 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 19:59:19,559 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:59:19,560 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 19:59:19,584 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 19:59:19,585 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 19:59:19,585 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:59:19,762 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:59:19,762 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 19:59:21,634 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:59:21,676 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 19:59:21,678 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 19:59:21,678 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 19:59:21,679 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:59:21,754 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:59:21,754 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:59:21,903 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:59:21,903 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 19:59:21,903 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:59:22,009 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:59:22,010 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 19:59:22,011 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 19:59:32,944 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 19:59:32,945 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 19:59:32,954 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:59:32,954 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 19:59:32,979 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 19:59:32,980 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 19:59:32,980 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:59:33,146 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:59:33,146 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 19:59:33,453 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 19:59:33,766 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 19:59:33,768 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 19:59:33,770 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 19:59:33,772 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() starts..
+2014-09-22 19:59:33,774 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:59:33,978 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:59:33,978 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 19:59:34,098 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 19:59:34,099 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 19:59:34,099 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 19:59:34,305 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 19:59:34,306 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 19:59:34,308 INFO  (DetailedLogs.java:54)     - Info : sucessfullLoginTest() ends..
+2014-09-22 19:59:34,309 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 20:00:16,140 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 20:00:16,142 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 20:00:16,149 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 20:00:16,150 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 20:00:16,194 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 20:00:16,195 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 20:00:16,196 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 20:00:16,405 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 20:00:16,405 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 20:00:16,545 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 20:00:16,597 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 20:00:16,597 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 20:00:16,598 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 20:00:16,599 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 20:00:16,674 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 20:00:16,675 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 20:00:16,796 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 20:00:16,797 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 20:00:16,797 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 20:00:16,926 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 20:00:16,926 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 20:00:16,928 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 20:00:21,010 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 20:00:21,012 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 20:00:21,016 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 20:00:21,017 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 20:00:21,041 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 20:00:21,041 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 20:00:21,042 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 20:00:21,226 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 20:00:21,226 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 20:00:21,686 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 20:00:21,796 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 20:00:21,798 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 20:00:21,799 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 20:00:21,799 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 20:00:21,926 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 20:00:21,927 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 20:00:22,083 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 20:00:22,084 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 20:00:22,084 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 20:00:22,229 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 20:00:22,230 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 20:00:22,231 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 20:00:25,663 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 20:00:25,665 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp starts..
+2014-09-22 20:00:25,774 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 20:00:25,775 INFO  (DetailedLogs.java:54)     - Info : HomePage() starts..
+2014-09-22 20:00:25,795 INFO  (DetailedLogs.java:54)     - Info : HomePage() ends..
+2014-09-22 20:00:25,796 INFO  (DetailedLogs.java:54)     - Info : openRediffMail() starts..
+2014-09-22 20:00:25,796 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 20:00:26,037 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 20:00:26,038 INFO  (DetailedLogs.java:54)     - Info : ReadFromWebElement starts..
+2014-09-22 20:00:26,212 INFO  (DetailedLogs.java:32)     - SDGSeleniumFramework - Logger is configured!
+2014-09-22 20:00:26,277 INFO  (DetailedLogs.java:54)     - Info : MailPage() starts..{cfce857b-7081-426d-8e6c-7a10a6b793ae} , http://www.rediff.com/
+2014-09-22 20:00:26,278 INFO  (DetailedLogs.java:54)     - Info : MailPage() ends..
+2014-09-22 20:00:26,279 INFO  (DetailedLogs.java:54)     - Info : LoginTestSetUp ends..
+2014-09-22 20:00:26,279 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 20:00:26,380 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 20:00:26,380 INFO  (DetailedLogs.java:54)     - Info : EnterValueText starts..
+2014-09-22 20:00:26,519 INFO  (DetailedLogs.java:54)     - Info : EnterValueText ends..
+2014-09-22 20:00:26,519 INFO  (DetailedLogs.java:54)     - Info : clickLogin() starts..
+2014-09-22 20:00:26,520 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement starts..
+2014-09-22 20:00:27,309 INFO  (DetailedLogs.java:54)     - Info : ClickOnWebElement ends..
+2014-09-22 20:00:27,309 INFO  (DetailedLogs.java:54)     - Info : clickLogin() ends..
+2014-09-22 20:00:27,310 INFO  (DetailedLogs.java:54)     - Info : TearDown starts..
+2014-09-22 20:00:29,631 INFO  (DetailedLogs.java:54)     - Info : TearDown ends..
+2014-09-22 20:00:29,632 INFO  (DetailedLogs.java:54)     - Info : stopDriver starts..
+2014-09-22 20:00:36,719 INFO  (DetailedLogs.java:54)     - Info : stopDriver ends..
+2014-09-24 13:00:27,187 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:00:30,790 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:00:30,802 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:00:30,963 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:00:31,153 INFO  (DetailedLogs.java:59)     - Info : setUpTest starts..
+2014-09-24 13:00:31,154 ERROR (DetailedLogs.java:88)     - Error : Unknown browser specified, defaulting to 'Firefox'...
+2014-09-24 13:00:31,154 INFO  (DetailedLogs.java:59)     - Info : setUpTest ends..
+2014-09-24 13:00:31,163 INFO  (DetailedLogs.java:59)     - Info : startDriver starts..
+2014-09-24 13:00:31,201 INFO  (DetailedLogs.java:59)     - Info : generateDesiredCapabilities starts..
+2014-09-24 13:00:31,207 INFO  (DetailedLogs.java:59)     - Info : generateDesiredCapabilities ends..
+2014-09-24 13:01:02,701 INFO  (DetailedLogs.java:59)     - Info : startDriver ends..
+2014-09-24 13:01:02,705 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:02,738 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:02,739 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:02,764 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:02,765 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:02,766 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:03,392 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:03,393 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:03,648 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:03,705 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:03,707 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:03,709 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:03,710 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:04,193 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:04,194 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:04,377 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:04,378 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:04,378 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:04,835 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:04,835 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:04,837 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:27,012 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:27,014 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:27,019 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:27,020 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:27,052 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:27,053 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:27,053 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:27,311 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:27,311 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:27,500 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:27,539 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:27,540 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:27,541 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:27,541 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:27,689 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:27,690 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:27,887 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:27,888 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:27,888 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:28,307 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:28,308 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:28,309 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:31,908 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:31,910 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:31,916 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:31,917 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:31,935 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:31,936 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:31,936 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:32,172 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:32,173 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:32,348 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:32,382 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:32,383 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:32,384 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:32,384 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:32,521 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:32,522 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:32,672 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:32,672 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:32,673 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:32,994 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:32,994 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:32,995 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:34,838 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:34,840 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:34,861 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:34,862 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:34,951 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:34,952 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:34,952 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:35,214 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:35,215 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:35,424 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:35,462 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:35,463 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:35,464 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:35,464 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:35,593 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:35,594 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:35,760 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:35,760 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:35,760 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:36,180 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:36,180 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:36,182 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:39,051 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:39,053 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:39,136 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:39,136 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:39,162 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:39,163 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:39,164 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:39,421 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:39,421 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:39,570 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:39,606 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:39,607 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:39,607 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:39,608 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:39,725 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:39,725 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:39,859 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:39,859 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:39,859 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:40,251 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:40,251 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:40,253 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:42,612 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:42,614 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:42,618 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:42,618 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:42,637 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:42,638 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:42,638 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:42,899 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:42,899 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:43,059 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:43,100 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:43,101 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:43,103 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:43,104 INFO  (DetailedLogs.java:59)     - Info : sucessfullLoginTest() starts..
+2014-09-24 13:01:43,104 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:43,223 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:43,224 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:43,423 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:43,423 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:43,424 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:43,856 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:43,857 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:43,857 INFO  (DetailedLogs.java:59)     - Info : sucessfullLoginTest() ends..
+2014-09-24 13:01:43,859 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:47,936 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:47,938 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:47,944 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:47,945 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:47,968 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:47,968 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:47,969 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:48,173 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:48,173 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:48,466 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:48,527 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:48,528 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:48,530 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:48,530 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:48,656 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:48,656 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:48,948 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:48,949 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:48,949 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:49,374 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:49,376 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:49,379 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:51,465 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:51,467 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:51,471 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:51,472 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:51,525 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:51,526 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:51,526 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:51,762 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:51,765 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:52,024 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:52,070 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:52,071 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:52,072 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:52,073 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:52,194 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:52,195 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:52,624 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:52,625 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:52,625 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:52,983 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:52,983 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:52,984 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:01:54,924 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:01:54,925 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:01:54,930 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:54,932 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:01:54,981 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:01:54,982 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:01:54,983 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:55,141 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:55,142 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:01:55,404 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:01:55,458 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{0cf434ab-be0c-475b-b9c9-3d77e97122d8} , http://www.rediff.com/
+2014-09-24 13:01:55,459 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:01:55,459 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:01:55,460 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:55,587 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:55,588 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:01:55,713 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:01:55,713 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:01:55,722 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:01:56,263 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:01:56,264 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:01:56,266 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:02:03,376 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:02:03,377 INFO  (DetailedLogs.java:59)     - Info : stopDriver starts..
+2014-09-24 13:02:20,690 INFO  (DetailedLogs.java:59)     - Info : stopDriver ends..
+2014-09-24 13:05:54,844 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:05:56,532 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:05:56,547 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:05:56,601 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:05:56,714 INFO  (DetailedLogs.java:59)     - Info : setUpTest starts..
+2014-09-24 13:05:56,715 ERROR (DetailedLogs.java:88)     - Error : Unknown browser specified, defaulting to 'Firefox'...
+2014-09-24 13:05:56,715 INFO  (DetailedLogs.java:59)     - Info : setUpTest ends..
+2014-09-24 13:05:56,723 INFO  (DetailedLogs.java:59)     - Info : startDriver starts..
+2014-09-24 13:05:56,742 INFO  (DetailedLogs.java:59)     - Info : generateDesiredCapabilities starts..
+2014-09-24 13:05:56,747 INFO  (DetailedLogs.java:59)     - Info : generateDesiredCapabilities ends..
+2014-09-24 13:06:15,135 INFO  (DetailedLogs.java:59)     - Info : startDriver ends..
+2014-09-24 13:06:15,141 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:15,191 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:15,193 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:15,222 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:15,223 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:15,224 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:15,476 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:15,477 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:15,652 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:15,689 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:15,690 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:15,692 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:15,693 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:15,831 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:15,831 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:16,125 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:16,126 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:16,126 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:16,422 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:16,422 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:16,424 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:18,972 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:18,973 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:18,975 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:18,976 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:20,033 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:20,033 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:20,034 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:20,364 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:20,365 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:20,603 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:20,680 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:20,681 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:20,681 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:20,682 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:20,808 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:20,808 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:20,945 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:20,946 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:20,947 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:21,220 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:21,221 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:21,222 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:23,214 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:23,217 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:23,263 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:23,264 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:23,284 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:23,285 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:23,286 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:23,595 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:23,595 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:23,753 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:23,784 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:23,786 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:23,787 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:23,788 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:23,901 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:23,901 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:24,032 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:24,032 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:24,032 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:24,434 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:24,435 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:24,436 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:25,129 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:25,131 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:25,170 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:25,170 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:30,651 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:30,652 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:30,652 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:30,865 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:30,865 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:31,156 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:31,195 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:31,196 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:31,197 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:31,197 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:31,394 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:31,394 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:31,510 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:31,510 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:31,511 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:31,766 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:31,766 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:31,768 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:33,316 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:33,317 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:33,322 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:33,323 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:33,390 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:33,391 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:33,392 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:33,685 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:33,686 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:33,884 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:33,928 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:33,929 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:33,930 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:33,930 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:34,036 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:34,037 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:34,222 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:34,222 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:34,222 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:34,469 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:34,469 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:34,470 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:36,200 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:36,202 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:36,209 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:36,209 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:36,234 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:36,235 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:36,236 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:36,511 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:36,512 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:36,682 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:36,713 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:36,714 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:36,716 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:36,716 INFO  (DetailedLogs.java:59)     - Info : sucessfullLoginTest() starts..
+2014-09-24 13:06:36,716 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:36,828 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:36,828 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:36,948 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:36,949 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:36,949 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:37,382 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:37,383 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:37,383 INFO  (DetailedLogs.java:59)     - Info : sucessfullLoginTest() ends..
+2014-09-24 13:06:37,385 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:39,168 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:39,170 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:39,177 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:39,178 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:39,202 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:39,204 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:39,204 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:39,480 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:39,480 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:39,658 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:39,687 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:39,688 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:39,689 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:39,690 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:39,795 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:39,796 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:40,134 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:40,134 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:40,134 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:40,457 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:40,458 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:40,460 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:42,851 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:42,853 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:42,858 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:42,859 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:42,908 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:42,909 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:42,909 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:43,161 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:43,161 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:43,335 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:43,399 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:43,399 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:43,400 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:43,401 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:43,528 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:43,528 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:43,652 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:43,653 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:43,653 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:43,864 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:43,865 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:43,865 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:45,550 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:45,551 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:06:45,556 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:45,556 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:06:45,572 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:06:45,573 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:06:45,573 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:45,798 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:45,799 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:06:46,015 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:06:46,057 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{77d214da-f85c-449e-88c4-2cb739b33215} , http://www.rediff.com/
+2014-09-24 13:06:46,059 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:06:46,060 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:06:46,061 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:46,173 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:46,173 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:06:46,358 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:06:46,359 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:06:46,364 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:06:46,602 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:06:46,603 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:06:46,603 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:06:49,175 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:06:49,177 INFO  (DetailedLogs.java:59)     - Info : stopDriver starts..
+2014-09-24 13:07:02,893 INFO  (DetailedLogs.java:59)     - Info : stopDriver ends..
+2014-09-24 13:22:45,740 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:22:48,166 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:22:48,230 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:22:48,294 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:22:48,531 INFO  (DetailedLogs.java:59)     - Info : setUpTest starts..
+2014-09-24 13:22:48,531 ERROR (DetailedLogs.java:88)     - Error : Unknown browser specified, defaulting to 'Firefox'...
+2014-09-24 13:22:48,531 INFO  (DetailedLogs.java:59)     - Info : setUpTest ends..
+2014-09-24 13:22:48,543 INFO  (DetailedLogs.java:59)     - Info : startDriver starts..
+2014-09-24 13:22:48,625 INFO  (DetailedLogs.java:59)     - Info : generateDesiredCapabilities starts..
+2014-09-24 13:22:48,629 INFO  (DetailedLogs.java:59)     - Info : generateDesiredCapabilities ends..
+2014-09-24 13:23:21,956 INFO  (DetailedLogs.java:59)     - Info : startDriver ends..
+2014-09-24 13:23:21,958 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:21,982 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:21,983 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:22,008 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:22,008 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:22,009 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:22,424 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:22,424 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:22,650 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:22,694 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:22,695 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:22,695 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:22,739 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:22,891 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:22,891 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:23,151 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:23,152 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:23,152 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:23,410 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:23,411 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:23,414 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:27,468 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:27,469 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:27,471 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:27,472 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:27,497 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:27,498 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:27,498 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:27,752 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:27,752 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:28,022 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:28,075 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:28,077 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:28,078 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:28,079 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:28,246 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:28,247 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:28,614 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:28,615 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:28,615 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:28,941 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:28,941 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:28,942 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:31,025 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:31,026 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:31,028 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:31,029 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:31,057 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:31,057 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:31,057 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:31,291 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:31,291 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:31,526 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:31,563 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:31,564 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:31,564 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:31,565 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:31,694 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:31,694 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:31,839 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:31,839 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:31,839 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:32,271 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:32,272 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:32,274 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:34,327 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:34,328 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:34,333 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:34,334 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:34,356 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:34,356 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:34,356 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:34,698 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:34,698 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:34,945 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:34,976 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:34,977 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:34,978 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:34,979 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:35,191 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:35,191 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:35,312 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:35,312 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:35,312 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:35,584 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:35,585 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:35,587 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:37,668 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:37,669 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:37,671 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:37,671 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:37,695 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:37,695 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:37,696 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:37,920 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:37,920 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:38,176 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:38,207 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:38,207 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:38,208 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:38,209 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:38,407 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:38,407 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:38,522 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:38,522 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:38,522 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:38,730 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:38,730 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:38,731 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:40,929 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:40,930 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:40,933 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:40,934 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:40,977 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:40,978 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:40,978 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:41,213 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:41,214 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:41,766 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:41,806 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:41,806 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:41,807 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:41,808 INFO  (DetailedLogs.java:59)     - Info : sucessfullLoginTest() starts..
+2014-09-24 13:23:41,808 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:41,932 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:41,932 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:42,055 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:42,056 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:42,056 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:42,362 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:42,362 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:42,362 INFO  (DetailedLogs.java:59)     - Info : sucessfullLoginTest() ends..
+2014-09-24 13:23:42,363 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:44,645 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:44,646 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:44,651 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:44,651 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:44,673 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:44,673 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:44,673 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:44,904 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:44,904 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:45,134 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:45,175 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:45,176 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:45,176 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:45,177 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:45,356 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:45,356 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:45,481 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:45,481 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:45,481 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:45,671 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:45,671 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:45,672 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:48,063 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:48,063 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:48,065 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:48,066 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:48,086 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:48,086 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:48,086 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:48,225 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:48,225 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:48,622 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:48,656 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:48,657 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:48,657 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:48,658 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:48,759 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:48,759 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:48,912 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:48,912 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:48,913 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:49,137 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:49,137 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:49,138 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:49,796 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:49,797 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp starts..
+2014-09-24 13:23:49,800 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:49,801 INFO  (DetailedLogs.java:59)     - Info : HomePage() starts..
+2014-09-24 13:23:51,453 INFO  (DetailedLogs.java:59)     - Info : HomePage() ends..
+2014-09-24 13:23:51,454 INFO  (DetailedLogs.java:59)     - Info : openRediffMail() starts..
+2014-09-24 13:23:51,454 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:51,784 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:51,785 INFO  (DetailedLogs.java:59)     - Info : ReadFromWebElement starts..
+2014-09-24 13:23:52,024 INFO  (DetailedLogs.java:37)     - SDGSeleniumFramework - Logger is configured!
+2014-09-24 13:23:52,057 INFO  (DetailedLogs.java:59)     - Info : MailPage() starts..{758a9876-d34f-4b60-9858-c5a00177a7df} , http://www.rediff.com/
+2014-09-24 13:23:52,058 INFO  (DetailedLogs.java:59)     - Info : MailPage() ends..
+2014-09-24 13:23:52,059 INFO  (DetailedLogs.java:59)     - Info : LoginTestSetUp ends..
+2014-09-24 13:23:52,060 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:52,160 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:52,160 INFO  (DetailedLogs.java:59)     - Info : EnterValueText starts..
+2014-09-24 13:23:52,288 INFO  (DetailedLogs.java:59)     - Info : EnterValueText ends..
+2014-09-24 13:23:52,288 INFO  (DetailedLogs.java:59)     - Info : clickLogin() starts..
+2014-09-24 13:23:52,289 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement starts..
+2014-09-24 13:23:52,497 INFO  (DetailedLogs.java:59)     - Info : ClickOnWebElement ends..
+2014-09-24 13:23:52,497 INFO  (DetailedLogs.java:59)     - Info : clickLogin() ends..
+2014-09-24 13:23:52,498 INFO  (DetailedLogs.java:59)     - Info : TearDown starts..
+2014-09-24 13:23:55,037 INFO  (DetailedLogs.java:59)     - Info : TearDown ends..
+2014-09-24 13:23:55,037 INFO  (DetailedLogs.java:59)     - Info : stopDriver starts..
+2014-09-24 13:24:01,162 INFO  (DetailedLogs.java:59)     - Info : stopDriver ends..

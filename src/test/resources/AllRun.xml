@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rediff Mail Execution Suite" parallel="classes" thread-count="2">
+	<parameter name="hubAddress" value="localhost"/>
+	<parameter name="Mobile" value="Yes"/>
+	<parameter name="Device" value="ANDROID"/>
+	<listeners>
+		<listener class-name="com.framework.report.CustomReport" />
+		<listener class-name="com.framework.report.CustomLogging" />
+	</listeners>
+	<test verbose="2" name="Rediff WebSite Testing">
+		<packages>
+			<package name="com.rediff.testcases">
+			<package name="com.rediff.testcases">
+		</package>
+		</packages>
+	</test>
+</suite>

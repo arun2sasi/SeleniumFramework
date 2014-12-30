@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Rediff Mail Execution Suite]" parallel="classes">
+  <parameter name="hubAddress" value="http://localhost:4444/wd/hub"/>
+  <listeners>
+    <listener class-name="com.report.CustomReport"/>
+    <listener class-name="com.report.CustomLogging"/>
+  </listeners>
+  <test name="Rediff WebSite Testing(failed)" parallel="classes">
+    <classes>
+      <class name="com.rediff.testcases.TestBase">
+        <methods>
+          <include name="setUpTest"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.TestBase -->
+      <class name="com.rediff.testcases.LoginTest">
+        <methods>
+          <include name="wrongUserNameWrongPasswordLoginTest"/>
+          <include name="sucessfullLoginTest"/>
+          <include name="startDriver"/>
+          <include name="LoginTestSetUp"/>
+          <include name="blankUserNameRightPasswordLoginTest"/>
+          <include name="blankUserNameWrongPasswordLoginTest"/>
+          <include name="TearDown"/>
+          <include name="wrongUserNameBlankPasswordLoginTest"/>
+          <include name="wrongUserNameRightPasswordLoginTest"/>
+          <include name="rightUserNameWrongPasswordLoginTest"/>
+          <include name="rightUserNameBlankPasswordLoginTest"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Rediff WebSite Testing(failed) -->
+</suite> <!-- Failed suite [Rediff Mail Execution Suite] -->
