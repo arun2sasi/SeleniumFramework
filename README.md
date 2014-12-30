@@ -9,7 +9,7 @@ This framework is designed to help you get started with Web testing quickly, to 
 Main features:
 =============
 
-Provides browser automationg using Selenium WebDriver;
+* Provides browser automationg using Selenium WebDriver;
 
 Take screenshots on demand and save on disk;
 
@@ -33,7 +33,3 @@ Reports : Custom html reports are generated and available in test-output folder;
 Contact
 =======
 For any information about this sample project, send an email to abhaybharti@gmail.com
-
-
-
-
